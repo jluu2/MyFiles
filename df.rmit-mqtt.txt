@@ -1,0 +1,160 @@
+{
+	"uldata": [
+		{
+			"id": "1503649584715-XybP5KCGPfTJACRL1KYrXvUQ",
+			"macAddr": "000000000c5000c6",
+			"data": "000259fdc0cbaf08a25ff0",
+			"recv": "2017-08-25T08:26:23.000Z",
+			"gender": "male",
+			"extra": {
+				"rssi": "-133",
+				"snr": "-13",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "1503649644736-q29mwMyRaniCAeVGKleLc5Hw",
+			"macAddr": "000000000c5000c6",
+			"data": "000259fdc0cbaf08a25ff0",
+			"recv": "2017-08-25T08:27:23.000Z",
+			"gender": "male",
+			"extra": {
+				"rssi": "-127.3",
+				"snr": "-8.3",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "1503649704748-YIDr2JGiAa3AH8REPetbAFIf",
+			"macAddr": "000000000c5000c6",
+			"data": "000258fdc0cbaf08a25ff0",
+			"recv": "2017-08-25T08:28:23.000Z",
+			"gender": "male",
+			"extra": {
+				"rssi": "-87",
+				"snr": "24.5",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "1503649764802-RaPIFxWQSotCNMDI3S07WzSZ",
+			"macAddr": "000000000c5000c6",
+			"data": "000258fdc0cbaf08a25ff0",
+			"recv": "2017-08-25T08:29:23.000Z",
+			"gender": "male",
+			"extra": {
+				"rssi": "-65",
+				"snr": "26.3",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "1503649824697-55gKQgqV8K5TFzZ6run3JW4G",
+			"macAddr": "Angelina Jolie",
+			"data": "angelina_jolie@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "female",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c205",
+			"macAddr": "Dido",
+			"data": "dido@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "female",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c206",
+			"macAddr": "Adele",
+			"data": "adele@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "female",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c207",
+			"macAddr": "Hugh Jackman",
+			"data": "hugh_jackman@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "male",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c208",
+			"macAddr": "Will Smith",
+			"data": "will_smith@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "male",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c209",
+			"macAddr": "Clint Eastwood",
+			"data": "clint_eastwood@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "male",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c2010",
+			"macAddr": "Barack Obama",
+			"data": "barack_obama@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "male",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c2011",
+			"macAddr": "Kate Winslet",
+			"data": "kate_winslet@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "female",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		},
+		{
+			"id": "c2012",
+			"macAddr": "Eminem",
+			"data": "eminem@gmail.com",
+			"recv": "xx-xx-xxxx,x - street, x - country",
+			"gender": "male",
+			"extra": {
+				"rssi": "+91 0000000000",
+				"snr": "00 000000",
+				"office": "00 000000"
+			}
+		}
+	]
+}
